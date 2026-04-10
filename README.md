@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Salut, moi c'est [Ton Nom]
 
-<!--
-**Arthur-Beignon/Arthur-Beignon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Développeur passionné | 🚀 Toujours en train d’apprendre | 🎯 Objectif : créer des projets utiles et performants
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Me retrouver
+
+<p align="center">
+  <a href="https://ton-portfolio.com](https://arthur-beignon.github.io/portfolio/index_en.html" target="_blank">
+    <img src="https://img.shields.io/badge/🌍 Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/arthur-beignon" target="_blank">
+    <img src="https://img.shields.io/badge/💼 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github" />
+</p>
+
+---
+
+## 📊 Stats GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ton-username&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ton-username&theme=radical" height="150"/>
+</p>
+
+---
+
+## 🚀 Projets récents
+
+* 🔹 Projet 1 – Description rapide
+* 🔹 Projet 2 – Description rapide
+* 🔹 Projet 3 – Description rapide
+
+---
+
+## 📫 Me contacter
+
+📧 Email : [tonmail@email.com](mailto:tonmail@email.com)
+
+---
+
+## ⚡ Fun fact
+
+> J’aime transformer le café en code ☕💻
+
+---
