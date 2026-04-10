@@ -1,6 +1,6 @@
-# 👋 Salut, moi c'est [Ton Nom]
+# 👋 Salut, moi c'est Arthur BEIGNON
 
-💻 Développeur passionné | 🚀 Toujours en train d’apprendre | 🎯 Objectif : créer des projets utiles et performants
+💻 Développeur passionné & futur apprenti ingénieur réseaux | 🚀 Toujours en train d’apprendre | 🎯 Objectif : créer des projets utiles et performants 
 
 ---
 
@@ -21,7 +21,7 @@
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bash,nodejs,python,git,github,powershell,c,cpp,linux" />
 </p>
 
 ---
@@ -29,7 +29,6 @@
 ## 📊 Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ton-username&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ton-username&theme=radical" height="150"/>
 </p>
 
@@ -45,12 +44,5 @@
 
 ## 📫 Me contacter
 
-📧 Email : [tonmail@email.com](mailto:tonmail@email.com)
+📧 Email : [arthurbeignon.pro@gmail.com](mailto:arthurbeignon.pro@gmail.com)
 
----
-
-## ⚡ Fun fact
-
-> J’aime transformer le café en code ☕💻
-
----
