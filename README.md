@@ -7,11 +7,11 @@
 ## 🌐 Me retrouver
 
 <p align="center">
-  <a href="https://ton-portfolio.com](https://arthur-beignon.github.io/portfolio/index_en.html" target="_blank">
+  <a href="https://arthur-beignon.github.io/portfolio/index.html" target="_blank">
     <img src="https://img.shields.io/badge/🌍 Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/arthur-beignon" target="_blank">
+  <a href="https://www.linkedin.com/in/arthur-beignon/" target="_blank">
     <img src="https://img.shields.io/badge/💼 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -21,7 +21,7 @@
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bash,nodejs,python,git,github,powershell,c,cpp,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bash,nodejs,python,java,git,github,docker,podman,powershell,c,cpp,linux" />
 </p>
 
 ---
@@ -36,9 +36,9 @@
 
 ## 🚀 Projets récents
 
-* 🔹 Projet 1 – Description rapide
-* 🔹 Projet 2 – Description rapide
-* 🔹 Projet 3 – Description rapide
+* 🔹 AstroPhoto – Description rapide
+* 🔹 ReactionMarket – Description rapide
+* 🔹 TryHackMe – Description rapide
 
 ---
 
