@@ -1,6 +1,6 @@
 # 👋 Salut, moi c'est Arthur BEIGNON
 
-💻 Développeur passionné & futur apprenti ingénieur réseaux | 🚀 Toujours en train d’apprendre | 🎯 Objectif : créer des projets utiles et performants 
+💻 Développeur passionné & futur apprenti ingénieur réseaux | 🚀 Toujours en train d’apprendre | 🎯 Objectif : créer des projets utiles et performants
 
 ---
 
@@ -21,7 +21,7 @@
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bash,nodejs,python,java,git,github,docker,podman,powershell,c,cpp,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bash,nodejs,python,java,git,github,docker,powershell,c,cpp,linux" />
 </p>
 
 ---
@@ -29,20 +29,21 @@
 ## 📊 Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ton-username&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthur-beignon&theme=radical" height="150"/>
 </p>
 
 ---
 
 ## 🚀 Projets récents
 
-* 🔹 AstroPhoto – Description rapide
-* 🔹 ReactionMarket – Description rapide
-* 🔹 TryHackMe – Description rapide
+* 🔹 **AstroPhoto** – Application permettant d'explorer et de manipuler des images astronomiques. Elle récupère des images depuis la base de données MAST et propose des outils comme le zoom, les filtres et la combinaison de fichiers FITS pour créer des compositions multispectrales.
+
+* 🔹 **ReactionMarket** – Application en PyQt permettant de cartographier les emplacements des produits dans un magasin et de calculer le chemin le plus rapide entre eux.
+
+* 🔹 **TryHackMe** – Site web proposant un récapitulatif des différents modules du site TryHackMe, avec des vidéos de résolution et des explications détaillées.
 
 ---
 
 ## 📫 Me contacter
 
 📧 Email : [arthurbeignon.pro@gmail.com](mailto:arthurbeignon.pro@gmail.com)
-
